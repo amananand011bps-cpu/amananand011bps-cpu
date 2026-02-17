@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Aman Anand<br><br>🎓 Cybersecurity Student | Aspiring Security Analyst<br><br>I'm passionate about protecting systems, networks, and data from cyber threats.<br>Currently learning and working with:<br>- Network Security<br>- Ethical Hacking<br>- Linux & System Administration<br>- Web Security Basics<br><br>🔍 I enjoy exploring vulnerabilities, learning how attacks work, and finding ways to defend against them.<br><br>🚀 Always learning. Always curious.<br><br>
+👋 Hi, I'm Aman Anand<br><br>🎓 Cybersecurity Student | Aspiring Security Analyst<br><br>
+- I'm passionate about protecting systems, networks, and data from cyber threats.<br>Currently learning and working with:<br>
+- Network Security<br>
+- Ethical Hacking<br>
+- Linux & System Administration<br>
+- Web Security Basics<br><br>🔍 I enjoy exploring vulnerabilities, learning how attacks work, and finding ways to defend against them.<br><br>🚀 Always learning. Always curious.<br><br>
 
 
 ## 🌐 Socials:
